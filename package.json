@@ -55,6 +55,7 @@
     "got": "14.2.1",
     "http-status-codes": "2.3.0",
     "inversify": "6.0.2",
+    "jose": "5.4.0",
     "mime-types": "2.1.35",
     "mongoose": "8.3.4",
     "multer": "1.4.5-lts.1",
