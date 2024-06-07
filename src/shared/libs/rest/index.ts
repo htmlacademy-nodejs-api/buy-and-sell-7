@@ -17,3 +17,4 @@ export { ParseTokenMiddleware } from './middleware/parse-token.middleware.js';
 export { PrivateRouteMiddleware } from './middleware/private-route.middleware.js';
 export { ValidationErrorField } from './types/validation-error-field.type.js';
 export { ApplicationError } from './types/application-error.enum.js';
+export { ValidationExceptionFilter } from './exception-filter/validation.exception-filter.js';
